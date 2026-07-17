@@ -18,7 +18,7 @@
 class Ahmed:
     def __init__(self):
         self.role = "BS Computer Science @ Superior University, Lahore"
-        self.focus = ["Python Backend", "AI Agents", "Product Building"]
+        self.focus = ["Python Backend", "AI Agents", "Cloud (AWS)", "Product Building"]
         self.currently_building = "Autonomous research agents"
         self.philosophy = "Ship real things > collect tutorials"
 
@@ -86,11 +86,13 @@ kept public because half-finished > hidden.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux%2FWSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -100,6 +102,7 @@ kept public because half-finished > hidden.
 
 ```
 > exploring agentic AI — tool-calling loops, planning, autonomous workflows
+> going deeper on cloud (AWS) — moving projects off basic hosting onto real infra
 > targeting internship / entry-level Python developer roles in Lahore
 > running two live gigs on Fiverr: AI chatbots + web scraping
 ```
